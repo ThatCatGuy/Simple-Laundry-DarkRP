@@ -8,6 +8,7 @@ This is for the Citizen job by default, but can be set to all jobs with a consol
 # NPC Config
 You can spawn the laundry entities from the Q menu.
 You can save the entity locations on the current map by using console command **simplelaundry_saveents**.
+
 You can remove the laundry entities locations on the current map by using console command **simplelaundry_removeents** this will prevent them spawning on the next restart..
 You can respawn the laundry entities locations on the current map by using console command **simplelaundry_respawnents** this is handy if you just saved them or updated the saves it will remove them from the map and reload from the file so if you move one by mistake then use the respawn command and it will fix its position.
 
